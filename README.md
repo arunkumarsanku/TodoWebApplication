@@ -1,4 +1,4 @@
-# 🗓️ MERN Todo Application
+# 🗓️ MERN TodoWebApplication
 
 A powerful and user-friendly Todo application built using the MERN stack (MongoDB, Express, React, Node.js) with Tailwind CSS for styling. This application allows users to create, manage, and organize their tasks in both week and month views, with drag-and-drop functionality.
 
