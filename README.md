@@ -33,14 +33,14 @@ A powerful and user-friendly Todo application built using the MERN stack (MongoD
    cd server
    npm install
  ```
-3. Install Client Dependencies
+3. Setup Environment Variables
+  ```bash
+   MONGO_URL= your-mongodb-url
+  ```
+4. Install Client Dependencies
   ```bash
    cd ../client
    npm install
-  ```
-4. Setup Environment Variables
-  ```bash
-   MONGO_URL= your-mongodb-url
   ```
 5. Start the Development Server
   ```bash
