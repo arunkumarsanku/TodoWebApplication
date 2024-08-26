@@ -11,7 +11,7 @@ A powerful and user-friendly Todo application built using the MERN stack (MongoD
 - **Drag-and-Drop**: Easily drag and drop tasks between days and weeks.
 - **Upcoming & Pending Tasks**: Sidebar view for upcoming tasks and overdue (pending) tasks.
 - **Task Management**: Mark tasks as completed or delete them easily.
-- **Dynamic UI**: Calendar grid adjusts dynamically based on the number of tasks.
+- **Dynamic UI**: Calendar grid adjusts dynamically based on the number of task.
 
 ## 🛠️ Tech Stack
 
